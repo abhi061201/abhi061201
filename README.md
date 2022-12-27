@@ -1,4 +1,4 @@
-![Copy of IMG_20220927_124338](https://user-images.githubusercontent.com/72760503/209679171-cffe7f5c-8ab4-4eee-a42b-12c9d4f63076.jpg)
+![Copy of IMG_20220927_124338](https://user-images.githubusercontent.com/72760503/209679171-cffe7f5c-8ab4-4eee-a42b-12c9d4f63076.jpg)| width=250.
 
 - 👋 Hi, I’m Abhishek Gupta
 - 👀 I’m interested in Flutter Development
