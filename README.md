@@ -2,8 +2,8 @@
 - 👋 Hi, I’m Abhishek Gupta
 - 👀 I’m interested in Flutter Development
 - 📫 How to reach me :
-- Linkedin- https://www.linkedin.com/in/abhishek-gupta061201/
-- Leetcode- https://leetcode.com/abhi_061201/
+- Linkedin - https://www.linkedin.com/in/abhishek-gupta061201/
+- Leetcode - https://leetcode.com/abhi_061201/
 
 <!---
 abhi061201/abhi061201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
