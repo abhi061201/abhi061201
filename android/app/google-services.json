@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615869232290",
+    "project_id": "rn-social-app-14ed5",
+    "storage_bucket": "rn-social-app-14ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615869232290:android:d91efa7a9c4554ba3213fb",
+        "android_client_info": {
+          "package_name": "com.onboarding_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqoBCaHY-WwGdg3uX_VC8VyvawKNMpHB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
